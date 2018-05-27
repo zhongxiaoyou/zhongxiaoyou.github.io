@@ -16,10 +16,10 @@
 
 
 ## 演示地址
-[https://github-laziji.github.io][1]
+[https://zhongxiaoyou.github.io][1]
 
 ## 项目源码
-[https://github.com/GitHub-Laziji/vblog][3]
+[https://github.com/zhongxiaoyou/vblog][3]
 
 ## 项目特点
 
@@ -84,16 +84,16 @@
 - 克隆完成后 修改文件 ```/static/configuration.json``` 中的 ```githubUsername``` 为自己的github用户名
 
 
-类似演示地址其中 GitHub-Laziji 为我的用户名
+类似演示地址,其中 zhongxiaoyou 为我的用户名
 
 
-现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://github-laziji.github.io][1]
+现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://zhongxiaoyou.github.io][1]
 
 
 
 #### 获取Token
 
-在 ```github > settings > Developer settings > Personal access tokens```  勾选```gist``` 和 ```repo```权限 获取```Token```
+在 ```github > settings > Developer settings > Personal access tokens中找到蓝色链接Generate a personal access token的句子并点击进去，在Token description中随便填一个描述名称，下面的复选框是你这个token需要的权限，全部勾上就可以``` 获取```Token```了
 
 
 ------
