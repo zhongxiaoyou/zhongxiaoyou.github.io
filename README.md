@@ -19,7 +19,7 @@
 https://zhongxiaoyou.github.io
 
 ## 项目源码
-https://github.com/zhongxiaoyou/vblog
+https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
 
 ## 项目特点
 
